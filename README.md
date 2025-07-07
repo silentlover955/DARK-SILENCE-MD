@@ -15,7 +15,6 @@
 **`USE THIS LINK 🔗 FOR OTHER 🍽️ PLATFORMS TO DEPLOY DARK-SILENCE-MD 🩶`**
 
 ```
-https://github.com/DARKSILENCE04/DARK-SILENCE-MD
 ```
 ---
 
@@ -186,7 +185,6 @@ jobs:
 `✠ STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY OF DARK-SILENCE-MD BY JOINING OUR OFFICIAL WHATSAPP CHANNEL.✠`
 
 
-[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s)
 
 ---------
 
