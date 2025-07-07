@@ -11,11 +11,7 @@
 
 -----------
 
-### <br>  ❖ DARK-SILENCE-MD ❖
-**`USE THIS LINK 🔗 FOR OTHER 🍽️ PLATFORMS TO DEPLOY DARK-SILENCE-MD 🩶`**
 
-```
-https://github.com/DARKSILENCE04/DARK-SILENCE-MD
 ```
 ---
 
@@ -24,14 +20,14 @@ https://github.com/DARKSILENCE04/DARK-SILENCE-MD
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=DARK-SILENCE-MD;+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+SILENTLOVER432;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=SILENT-LOVER;+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+SILENTLOVER955;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
 </p>
 
 <div align="center">
-  <a href="https://github.com/DARKSILENCE04/followers"><img title="Followers" src="https://img.shields.io/github/followers/DARKSILENCE04?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DARKSILENCE04/DARK-SILENCE-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DARKSILENCE04/DARK-SILENCE-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/DARKSILENCE04/DARK-SILENCE-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/SILENTLOVER04/followers"><img title="Followers" src="https://img.shields.io/github/followers/SILEMTLOVER04?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/SILENTLOVER04/SILENT-LOVER-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SILEMTLOVER04/SILENT-LOVER-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/SILEMTLOVER04/SILENT-LOVER-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SILENTLOVER04/SILENT-LOVER-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/SILENTLOVER04/SILENT-LOVER-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/SILENTLOVER04/SILENT-LOVER-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
   <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-SILENTLOVER-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
@@ -175,18 +171,12 @@ jobs:
 
 
 ## 👑 ✠ PROJECT OWNER ✠
-`HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ♡SILENT LOVER⁴³²࿐➺`
+`HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ♡SILENT LOVER955࿐➺`
 
 <p align="">
-<a href='https://wa.me/+923096287432?text=*HII+SIR+I+NEDD+HELP!.+IM+MSG+YOU+FROM+DARK-SILENCE+MD!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://wa.me/+923183895955?text=*HII+SIR+I+NEDD+HELP!.+IM+MSG+YOU+FROM+SILENT-LOVER+MD!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-
-## ⚖️ ✠ SUPPORT CHANNEL ✠
-`✠ STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY OF DARK-SILENCE-MD BY JOINING OUR OFFICIAL WHATSAPP CHANNEL.✠`
-
-
-[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s)
 
 ---------
 
@@ -220,7 +210,7 @@ jobs:
 <br>
 
 ```
-THANKS TO DARKDEVIL,SOBIABUTT,SILENTKILLER,NOTHING,SPECIAL THANKS 😊 CYBER,X TEAM FOR SCRIPT❤️
+THANKS TO DARKDEVIL,SILENTLOVER,SILENTKILLER,NOTHING,SPECIAL THANKS 😊 CYBER,X TEAM FOR SCRIPT❤️
 ```
 -----
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
