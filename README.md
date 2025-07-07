@@ -15,7 +15,7 @@
 **`USE THIS LINK 🔗 FOR OTHER 🍽️ PLATFORMS TO DEPLOY DARK-SILENCE-MD 🩶`**
 
 ```
-https://github.com/DARKSILENCE04/DARK-SILENCE-MD
+
 ```
 ---
 
